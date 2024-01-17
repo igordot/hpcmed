@@ -1,0 +1,14 @@
+title: "cluster docs"
+description: "cluster docs"
+
+# theme
+remote_theme: just-the-docs/just-the-docs
+
+# enable or disable the site search
+search_enabled: true
+
+# enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+# heading anchor links appear on hover over h1-h6 tags in page content
+heading_anchors: false
